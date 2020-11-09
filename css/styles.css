@@ -12,6 +12,10 @@ h2{
 
 }
 
+img{ padding: 20px 0px;
+
+}
+
 body{
     margin: 0;
 
@@ -45,7 +49,7 @@ main{
 }
 
 .text_sections{
-    padding: 30px 0px;
+    padding: 30px 10px;
 
 
 }
