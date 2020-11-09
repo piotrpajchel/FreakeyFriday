@@ -1,0 +1,99 @@
+h1{
+    // color: #126bdd;
+
+}
+
+h2{
+
+}
+
+body{
+    margin: 0;
+
+}
+
+header{
+    height: 300px;
+    background: url("../images/1080_crop_vidar-nordli-mathisen-ZoyyS4jSUNI-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    // background-attachment: fixed;
+    background-position: center;
+}
+
+
+.logo{
+    height: 80%;
+    padding: 25px 25px;
+}
+
+
+
+main{
+    margin: 0 auto;
+    width: 70%;
+    font-family: "Lucida Grande",Arial;
+    padding: 55px 0px;
+    max-width: 800px;
+
+}
+
+.text_sections{
+    padding: 30px 0px;
+
+
+}
+
+footer{
+    height: 400px;
+    background: url("../images/1920_crop_gus-ruballo-dwKrD_DK6N8-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+// background-attachment: fixed;
+    background-position: center;
+
+}
+
+.sing-up{
+    padding: 100px 0px;
+
+}
+
+/* Code modified from https://www.w3schools.com/howto/howto_css_newsletter.asp  */
+
+
+
+/* Add some padding and a grey background color to containers */
+.container {
+    text-align: center;
+
+
+
+}
+
+/* Style the input elements and the submit button */
+input[type=text], input[type=submit] {
+    width: 400px;
+    padding: 12px;
+    margin: 25px 10px;
+    // display: inline-block;
+    // border: 1px solid #ccc;
+    // box-sizing: border-box;
+
+}
+
+
+
+/* Style the submit button */
+input[type=submit] {
+    width: 200px;
+    background-color: #126bdd;
+    color: white;
+    border: none;
+
+}
+
+input[type=submit]:hover {
+    opacity: 0.8;
+}
+
