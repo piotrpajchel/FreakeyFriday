@@ -1,3 +1,8 @@
+
+div{
+    border: gray 3px solid;
+}
+
 h1{
     // color: #126bdd;
 
@@ -14,6 +19,7 @@ body{
 
 header{
     height: 300px;
+    width: auto;
     background: url("../images/1080_crop_vidar-nordli-mathisen-ZoyyS4jSUNI-unsplash.jpg");
     background-repeat: no-repeat;
     background-size: cover;
@@ -73,9 +79,10 @@ footer{
 
 /* Style the input elements and the submit button */
 input[type=text], input[type=submit] {
-    width: 400px;
-    padding: 12px;
-    margin: 25px 10px;
+    width: 80%;
+    max-width: 500px;
+    padding: 20px;
+    margin: 25px 0px;
     // display: inline-block;
     // border: 1px solid #ccc;
     // box-sizing: border-box;
