@@ -1,6 +1,6 @@
 
 div{
-    // border: gray 3px solid;
+
 }
 
 h1{
@@ -116,5 +116,11 @@ input[type=submit] {
 
 input[type=submit]:hover {
     opacity: 0.8;
+}
+
+.thankyoubody{
+    background-color: #093362;
+
+
 }
 
